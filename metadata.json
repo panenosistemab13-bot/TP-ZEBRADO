@@ -1,0 +1,8 @@
+{
+  "name": " Etiqueta ZPL",
+  "description": "Ferramenta para gerar etiquetas ZPL com sequências incrementais de Lote e Transporte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
